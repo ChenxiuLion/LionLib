@@ -1,0 +1,1 @@
+include ':app', ':IMLib', ':IMKit', ':IMKitt', ':rongimlib', ':wkvideoplayer', ':zxing', ':DaoCore-master', ':library-release'
